@@ -5,4 +5,3 @@ The laser dot following car was built as a semester project for an embedded syst
 # System Design
 The core of the project is based on the paper by García-Cardenas et al in IEEE Xplore ([link](https://ieeexplore.ieee.org/document/9220239)). The system comprises two DC motors with encoders and a servo motor arm. We set on using a simple color-space filtering algorithm paired with a simple motor voltage adjusting algorithm.
 
-![ELEC3300-SystemDesign](https://github.com/user-attachments/assets/12b58fd9-c18a-4e4b-bae0-c75f53ba3d05)
